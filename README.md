@@ -28,24 +28,6 @@ Programming Language: Python 3.10+
 
 Development Environment: Jupyter Notebook
 
-'''
-Deep-Learning-NonNLP/
-│
-├── RNN_LSTM_GRU_Comparison/
-│   ├── rnn_lstm_gru_comparison.ipynb
-│   └── results/
-│
-├── Feedforward_Neural_Network/
-│   └── neural_network_scratch.ipynb
-│
-├── CNN_and_Hybrid_Models/
-│   └── cnn_hybrid_models_experiments.ipynb
-│
-├── datasets/
-│   └── sample_data/
-│
-└── README.md
-'''
 
 ## Future Enhancements
 
